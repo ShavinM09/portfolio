@@ -1,0 +1,25 @@
+.bdy{
+	background-image: url("D:/resume sm/MEDIA/2.jpg"); 
+	/*background-image: linear-gradient(to right top, #051933, #004c75, #008690, #00be71, #a4eb12);*/
+
+	
+} 
+
+.bg-black{
+	background-color: black;
+}
+.font-div{
+	width: 30%;
+}
+img{
+	width: 100%;
+	height: 100%;
+}
+@media only screen and (min-width: 991px)
+{
+	.font-div{
+		padding: 45.5px  0px!important;
+	}
+}
+
+
